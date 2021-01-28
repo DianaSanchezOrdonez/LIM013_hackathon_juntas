@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/LIM013_hackathon_juntas/static/css/main.adc63d31.chunk.css",
-    "main.js": "/LIM013_hackathon_juntas/static/js/main.54c58509.chunk.js",
-    "main.js.map": "/LIM013_hackathon_juntas/static/js/main.54c58509.chunk.js.map",
+    "main.js": "/LIM013_hackathon_juntas/static/js/main.de65e055.chunk.js",
+    "main.js.map": "/LIM013_hackathon_juntas/static/js/main.de65e055.chunk.js.map",
     "runtime-main.js": "/LIM013_hackathon_juntas/static/js/runtime-main.7986b2c1.js",
     "runtime-main.js.map": "/LIM013_hackathon_juntas/static/js/runtime-main.7986b2c1.js.map",
     "static/js/2.d9346ec2.chunk.js": "/LIM013_hackathon_juntas/static/js/2.d9346ec2.chunk.js",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.7986b2c1.js",
     "static/js/2.d9346ec2.chunk.js",
     "static/css/main.adc63d31.chunk.css",
-    "static/js/main.54c58509.chunk.js"
+    "static/js/main.de65e055.chunk.js"
   ]
 }
